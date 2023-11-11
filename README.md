@@ -30,7 +30,7 @@ The Dice Roll Simulator provides users with an interactive interface to simulate
 
 ## Live Demo
 
-Experience the live demo of the Dice Roll Simulator [here](#).
+Experience the live demo of the Dice Roll Simulator [here](https://dice-roll-simulator-xi.vercel.app/).
 
 ## Contributing
 
